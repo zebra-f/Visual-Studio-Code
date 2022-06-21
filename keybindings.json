@@ -1,0 +1,9 @@
+// Place your key bindings in this file to override the defaults
+[
+    { "key": "alt+i",          "command": "cursorUp" },
+    { "key": "alt+k",          "command": "cursorDown" },
+    { "key": "alt+j",          "command": "cursorLeft" },
+    { "key": "alt+l",          "command": "cursorRight" },
+    { "key": "alt+u",          "command": "cursorHome" },
+    { "key": "alt+o",          "command": "cursorEnd" },
+]
