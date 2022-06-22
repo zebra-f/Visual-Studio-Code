@@ -1,0 +1,46 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.editor.closeOnFileDelete": true,
+  "editor.fontWeight": "bold",
+  // Python
+  "python.analysis.autoImportCompletions": false,
+  // GIT
+  "git.enabled": false,
+  // PRETTIER
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.formatOnSave": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "[django-html]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  },
+
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.bracketPairColorization.enabled": true,
+  "window.titleBarStyle": "custom",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.activityBar.visible": false,
+  "editor.guides.indentation": true
+}
+
